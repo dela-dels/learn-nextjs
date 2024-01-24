@@ -1,5 +1,14 @@
 {
-  "node": {},
+  "node": {
+    "60eebdbd9546f46069f7c952760d956d2241867c": {
+      "workers": {
+        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdelaakakpo%2FProjects%2FLearnings%2FJavascript%2FReact%2FNext%2Flearn-next%2Fapp%2Flib%2Faction.ts%22%2C%5B%22createInvoice%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/invoices/create/page": "action-browser"
+      }
+    }
+  },
   "edge": {},
-  "encryptionKey": "FkLqGHjkXQCVBiJZwjPLcIFaPH9/jCE4sjEgJB0jfhk="
+  "encryptionKey": "1RwGQvI/Ub7aI7yZ3TcDDKCFkDMUxgmFQzwg1MZ8DuM="
 }
